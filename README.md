@@ -11,4 +11,3 @@ My implementation's result:
 | 22.13      | 22.62       |
 
 The result is over 2 ppl lower than their implementation, which provides a strong baseline for future experiments.
-# nlp_transformer
